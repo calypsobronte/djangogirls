@@ -52,5 +52,11 @@ http://127.0.0.1:8000/
 
 ![servidor]
 
+## Crear una aplicación
+```bash
+$ python manage.py startapp blog
+```
+
 [servidor]: https://live.staticflickr.com/65535/48669586708_064ac331f3_b.jpg
+
 
