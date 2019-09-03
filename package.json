@@ -1,0 +1,26 @@
+{
+  "name": "djangogirls",
+  "version": "1.0.0",
+  "description": "Tutorial de Django Girls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calypsobronte/djangogirls.git"
+  },
+  "keywords": [
+    "django",
+    "python",
+    "women",
+    "django",
+    "girls"
+  ],
+  "author": "Lina María Montaño Ramírez - Calypso Bronte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calypsobronte/djangogirls/issues"
+  },
+  "homepage": "https://github.com/calypsobronte/djangogirls#readme"
+}
